@@ -1,0 +1,12 @@
+node_modules
+main/node_modules
+main/dist
+renderer/node_modules
+renderer/.eslintcache
+
+
+*.log
+build
+.DS_Store
+.vscode
+.idea
