@@ -15,6 +15,7 @@ export default async (context: Context) => {
     webPreferences: {
       autoplayPolicy: "no-user-gesture-required",
       nodeIntegration: true,
+      webSecurity: false,
     },
   });
 
